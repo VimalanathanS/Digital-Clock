@@ -1,0 +1,54 @@
+body
+{
+    background-image: url("Deep\ Space.jpg");
+}
+.container
+{
+    width:600px;
+    height:300px;
+    margin-left: 460px;
+    margin-top:250px;
+    border: 2px solid rgb(78, 74, 74);
+    border-radius: 20px;
+    backdrop-filter: blur(5px);
+    box-shadow: 0 0 20px #FEE715;
+}
+.container1
+{
+    color:White;
+    font-size: 90px;
+    padding-left: 80px;
+    padding-top:60px;
+    display: inline-block;
+}
+.ibox
+{
+    color:white;
+    font-size: 35px;
+    margin-left:180px;
+    margin-top: 30px;
+    font-family: fantasy;
+}
+.format
+{
+    margin-left:1150px;
+    margin-top:50px;
+    background-color: #000000;
+    background-image: linear-gradient(249deg, #000000 0%, #434343 100%);
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #FEE715;
+    border-radius: 10px;
+    display: block;
+}
+.format:hover 
+{
+    background-image: linear-gradient(45deg, #000000 0%, #434343 100%);
+    text-decoration: none;
+    box-shadow: 0 0 20px #b2a73d;
+    cursor:pointer;
+} 
