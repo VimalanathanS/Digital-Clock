@@ -3,8 +3,11 @@ Description :- This project is a fully functional digital clock developed using 
 
 Key Features  
 *RealTime Time Display: Continuously updates every second to show the current time with hours, minutes, and seconds, and uses a 12hour format with AM/PM indicators.
+
 *Date Display: Shows the current date with the full month name, day, and year for comprehensive timekeeping.
+
 *12-Hour and 24-Hour Format Toggle: Users can switch between a 12-hour format with AM/PM indicators and a 24-hour format using a button.
+
 *Customizable Layout: Built with HTML and CSS for a clean, userfriendly interface that fits various devices and screen sizes.
 
 Technologies Used  
